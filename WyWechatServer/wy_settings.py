@@ -2,8 +2,8 @@
 # coding: utf-8
 
 # 微信公众号绑定信息
-weixin_appid = u'wx85ddc4617e4400b0'
-weixin_secret = u'237dc3cc551b6bac043f660cbab093ca'
+weixin_appid = u'your_weixin_appid'
+weixin_secret = u'your_weixin_secret'
 
 # 微信公众号菜单配置
 wx_menu = {
@@ -122,7 +122,7 @@ AboutMeWithoutBindAccount = [
     {
         'title': u'欢迎关注唯一网络',
         'description': '',
-        'picurl': 'http://183.60.143.221/Images/AboutMe.jpg',
+        'picurl': '/Images/AboutMe.jpg',
         'url': 'http://www.wy.com.cn'
     },
     {
@@ -144,7 +144,7 @@ AboutMeWithBindAccount = [
     {
         'title': u'欢迎关注唯一网络',
         'description': '',
-        'picurl': 'http://183.60.143.221/Images/AboutMe.jpg',
+        'picurl': '/Images/AboutMe.jpg',
         'url': 'http://www.wy.com.cn'
     },
     {
@@ -284,7 +284,7 @@ ContactUsInfo = [
     {
         'title': u'【联系我们】',
         'description': '',
-        'picurl': 'http://183.60.143.221/Images/AboutMe.jpg',
+        'picurl': '/Images/AboutMe.jpg',
         'url': 'http://www.wy.com.cn'
     },
     {
@@ -324,7 +324,7 @@ CompanyIntroductionInfo = [
     {
         'title': u'【公司简介】',
         'description': u'东莞市唯一网络科技有限公司（简称“唯一网络”）成立于2005年8月，是国内领先互联网增值业务提供商。为客户提供高品质的服务器租用，服务器托管，机柜大带宽，网络安全，CDN加速等互联网增值业务解决方案',
-        'picurl': 'http://183.60.143.221/Images/AboutMe.jpg',
+        'picurl': '/Images/AboutMe.jpg',
         'url': 'http://mp.weixin.qq.com/s?__biz=MjM5MjM3NTMwMg==&mid=200520472&idx=1&sn=0e0045d856f24d75f923bb7e696a3094&scene=18#rd'
     }
 ]
